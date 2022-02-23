@@ -23,6 +23,9 @@ ELADMIN 前端源码
 # 配置镜像加速
 https://www.ydyno.com/archives/1219.html
 
+# github仓库地址
+https://github.com/shihaochen123/drivingSystem/tree/shihaochen
+
 # 安装依赖
 npm install
 
