@@ -2,7 +2,7 @@
   <div class="app-container">
     <el-row :gutter="20">
       <!--侧边部门数据-->
-      <el-col :xs="9" :sm="6" :md="5" :lg="4" :xl="4">
+      <!-- <el-col :xs="9" :sm="6" :md="5" :lg="4" :xl="4">
         <div class="head-container">
           <el-input
             v-model="deptName"
@@ -22,7 +22,7 @@
           lazy
           @node-click="handleNodeClick"
         />
-      </el-col>
+      </el-col> -->
       <!--用户数据-->
       <el-col :xs="15" :sm="18" :md="19" :lg="20" :xl="20">
         <!--工具栏-->

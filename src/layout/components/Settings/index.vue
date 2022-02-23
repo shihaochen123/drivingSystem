@@ -18,15 +18,15 @@
         <el-switch v-model="fixedHeader" class="drawer-switch" />
       </div>
 
-      <div class="drawer-item">
+      <!-- <div class="drawer-item">
         <span>显示LOGO</span>
         <el-switch v-model="sidebarLogo" class="drawer-switch" />
-      </div>
+      </div> -->
 
-      <div class="drawer-item">
+      <!-- <div class="drawer-item">
         <span>菜单UniqueOpened</span>
         <el-switch v-model="uniqueOpened" class="drawer-switch" />
-      </div>
+      </div> -->
 
     </div>
   </div>
