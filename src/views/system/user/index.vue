@@ -111,7 +111,7 @@
                 <el-radio
                   v-for="item in dict.user_status"
                   :key="item.id"
-                  :label="item.value"
+                  :label="item.value"111
                 >{{ item.label }}</el-radio>
               </el-radio-group>
             </el-form-item>
